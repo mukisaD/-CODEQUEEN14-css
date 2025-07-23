@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(8, 143, 20);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.mother {
+    max-width: 600px;
+    margin: auto;
+    background-color: rgb(216, 204, 204);
+}
+
+.card {
+    background-color: rgb(36, 135, 153);
+    border-radius: 10px;
+    box-shadow: 0 10px 20px;
+    margin-bottom: 30px;
+    padding: 30px 20px;
+}
+.card{
+    background-color: rgb(36, 135, 153);
+    
+}
+
+
+.exercise {
+    width: 100px;
+    border-radius: 30px;
+    margin: 20px 0;
+}
+
+.avatar {
+    width: 100px;
+    border-radius: 50%;
+    margin: 20px 0;
+
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 15px;
+    color: grey;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.green-text {
+    color: black
+}
